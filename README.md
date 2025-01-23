@@ -8,6 +8,7 @@ pip install seaborn
 pip install streamlit
 
 ## 2. jalankan code berikut pada terminal
+#### pastikan dataset day_df dan hour_df ada di dalam folder dashboard
 cd dashboard (nama folder)
 
 ## 3. jalankan code berikut pada terminal
