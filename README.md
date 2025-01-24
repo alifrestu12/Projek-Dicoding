@@ -3,8 +3,7 @@
 ## 1. install library di terminal 
 pip install pandas
 pip install numpy
-pip install matplotlib
-pip install seaborn
+pip install plotly.express
 pip install streamlit
 
 ## 2. jalankan code berikut pada terminal
